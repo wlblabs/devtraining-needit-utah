@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">96b9b9945377021016355ef0a0490ea8</copied_from>
+        <description>Log: Test of When needed with a date in the past should fail. &#13;
+</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 18:33:42</sys_created_on>
+        <sys_id>d8f2025053b7021016355ef0a0490e7a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_d8f2025053b7021016355ef0a0490e7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 18:44:32</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Past">5cf28adc5377021016355ef0a0490eb3</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=d8f2025053b7021016355ef0a0490e7a"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d8f2025053b7021016355ef0a0490e7a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 18:33:42</sys_created_on>
+        <sys_id>9cf2025053b7021016355ef0a0490e7b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 18:35:29</sys_updated_on>
+        <value>Test of When needed with a date in the past should fail. &#13;
+</value>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=d8f2025053b7021016355ef0a0490e7a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d19526eb1bc23554c8432f8dee4bcb9f</instance_id>
+        <instance_name>dev197604</instance_name>
+        <name>sys_atf_step_d8f2025053b7021016355ef0a0490e7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">96b9b9945377021016355ef0a0490ea8</copied_from><description>Log: Test of When needed with a date in the past should fail. &#13;
+</description><display_name>Log</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 18:33:42</sys_created_on><sys_id>d8f2025053b7021016355ef0a0490e7a</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_d8f2025053b7021016355ef0a0490e7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 18:44:32</sys_updated_on><table/><test display_value="When needed - Past">5cf28adc5377021016355ef0a0490eb3</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=d8f2025053b7021016355ef0a0490e7a"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d8f2025053b7021016355ef0a0490e7a</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-30 18:33:42</sys_created_on><sys_id>9cf2025053b7021016355ef0a0490e7b</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-30 18:35:29</sys_updated_on><value>Test of When needed with a date in the past should fail. &#13;
+</value><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=d8f2025053b7021016355ef0a0490e7a"/></record_update>]]></payload>
+        <payload_hash>1923976934</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>057889845337021016355ef0a0490e81</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 18:44:32</sys_created_on>
+        <sys_id>f665021453b7021016355ef0a0490ece</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19104f553d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 18:44:32</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>be650214bdb702102c510f839e28afcd</update_guid>
+        <update_guid_history>be650214bdb702102c510f839e28afcd:1923976934,52530e1c2b77021080257cd87292bc6d:-419357755,d4f202501eb70210dcc8abfb566bc99c:133356692,5cf20250c9b70210eb42177129b2c27d:-338349548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-30 18:44:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>06c215ae1b0845a887ea1bdee21bee40</sys_id>
+        <sys_metadata>d8f2025053b7021016355ef0a0490e7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_d8f2025053b7021016355ef0a0490e7a</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_d8f2025053b7021016355ef0a0490e7a">f665021453b7021016355ef0a0490ece</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 18:44:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
